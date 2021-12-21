@@ -382,6 +382,7 @@ button {
 .titlepage {
      text-align: center;
      padding-bottom: 60px;
+     
 }
 /* .col-md-12 h2{
 color: crimson;
@@ -393,7 +394,6 @@ color: crimson;
      font-weight: bold;
      padding-bottom: 20px;
 }
-
 .d_flex {
      display: flex;
      align-items: center;
