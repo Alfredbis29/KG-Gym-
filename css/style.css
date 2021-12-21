@@ -383,7 +383,9 @@ button {
      text-align: center;
      padding-bottom: 60px;
 }
-
+/* .col-md-12 h2{
+color: crimson;
+} */
 .titlepage h2 {
      font-size: 45px;
      color: #3e3e3e;
